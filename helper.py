@@ -4,7 +4,10 @@ import distance
 from fuzzywuzzy import fuzz
 import pickle
 import numpy as np
+import nltk
+nltk.download('stopwords')
 from nltk.corpus import stopwords
+
 
 cv = pickle.load(open('Model_Development/cv.pkl','rb'))
 
