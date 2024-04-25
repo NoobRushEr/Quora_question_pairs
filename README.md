@@ -1,6 +1,6 @@
 # Quora Question Pairs
 
-A NLP project to find weather given 2 questions are same are not semantically speaking.
+A NLP project to find whether given 2 questions are same are not semantically speaking.
 
 ### [Dataset](https://www.kaggle.com/c/quora-question-pairs)
 
